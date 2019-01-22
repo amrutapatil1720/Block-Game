@@ -1,0 +1,35 @@
+html,body,div {
+	background-color: pink;
+	font-weight: inherit;
+	font-style: inherit;
+	font-size: 100%;
+	font-family: inherit;
+	vertical-align: baseline;
+}
+	
+footer {
+   text-align: center;
+   margin-top : 5px;
+  
+}
+footer a:link {
+	color: goldenrod;
+	font-weight:bold;
+	 
+}
+p.size {
+	font-weight:bold;
+}
+#score{
+            display: inline-block;
+}
+div{
+            font-size: 25px;
+            font-weight: bold;
+            font-family: monospace;
+            text-align: center;
+        }
+        canvas{
+            display: block;
+            margin:0 auto;
+        }
